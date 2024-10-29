@@ -1,0 +1,1217 @@
+{
+    "version": "1.0",
+    "file_records": [
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/0001.png",
+            "source_hash": "eb741b8491d285ed361bda679427477045afdf41",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/0001.png",
+            "target_hash": "6b225d01cffb9e3c2507ee684abbbd109188ceae"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/0009.png",
+            "source_hash": "6c474a9223fd127491baa963e580358d4292ecc2",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/0009.png",
+            "target_hash": "0dfb78d4b30f69a6f4af313736761cf53c0d983e"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/0011.png",
+            "source_hash": "282d35624df67c8a7fd4bd3e1dcabc8c4382a03e",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/0011.png",
+            "target_hash": "5b408b3c2974bfd3c95649ab2f67ef792ee12851"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/0012.png",
+            "source_hash": "23c1da4e3a3942a023cb71ba8bb3a801716c24b2",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/0012.png",
+            "target_hash": "759aac8f252dbfcd65cbc1e1e312fa33f7aaec30"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/0013.png",
+            "source_hash": "3a0eb6a74c2399642087d58741fbb4b27657d570",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/0013.png",
+            "target_hash": "697063ce6207bd853ed43a6bcf4b1b37b3dc8b9c"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/0014.png",
+            "source_hash": "ec45caf2371bac981eb36363ac9cfe24e4098235",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/0014.png",
+            "target_hash": "969b6db71a8965f4ab35aab25ef58644684e62a8"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/0015.png",
+            "source_hash": "a5bbf226eb2eee13f09b6fb1621dfdfa2856791e",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/0015.png",
+            "target_hash": "f78502535fe075ffb7cad924453f12a152d4e816"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/0020.png",
+            "source_hash": "2f9eb279b369fb48886aad4a43799fd224c42f32",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/0020.png",
+            "target_hash": "aad22a87ef3983b7c40a2ddd600306051d1ed59d"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/AisleSign_Text_01.png",
+            "source_hash": "1cdb3deb6ab74a0b4baa0c7c7e7eeb11a3ea5c2e",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/AisleSign_Text_01.png",
+            "target_hash": "eb7fd21d6af6cb5822520fbe5b4636410deb4df9"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/AisleSign_Text_02.png",
+            "source_hash": "8ded38ca15cf3fc56656ed2ad87eb8404ab1aef8",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/AisleSign_Text_02.png",
+            "target_hash": "a2f5ec9ab07ea68d15cd0a75c59c8ea2727f7be0"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/AisleSign_Text_03.png",
+            "source_hash": "c36b9e121ac4c24c4ac03979336fe6544a1b383c",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/AisleSign_Text_03.png",
+            "target_hash": "5a34e6e9298a18ef4a8b906473011891e5ce9c16"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/AisleSign_Text_04.png",
+            "source_hash": "fd9791cf16676c7f8ef7489ab2ae9a94e37a6f48",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/AisleSign_Text_04.png",
+            "target_hash": "5fc86c4735fbeb68d9a8853c96868cd49f189992"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/AisleSign_Text_05.png",
+            "source_hash": "d25fa86ef4b8e4fba627b80d92a1ebfee4dd4df4",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/AisleSign_Text_05.png",
+            "target_hash": "9358dd64e42a4ce7bd924989e1b3be7a6a60c939"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/AisleSign_Text_06.png",
+            "source_hash": "fb790c8a31314f772d98e7df92dc88895b5f4406",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/AisleSign_Text_06.png",
+            "target_hash": "7fd1aac4dbd85d472f7f082efa9a0731dad52cc8"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/Alum_Anodized_roughness.png",
+            "source_hash": "d3df9c0e1bc117f90cf37fb10414cf53a4d149e1",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/Alum_Anodized_roughness.png",
+            "target_hash": "99e0e4b06c3a4064062a99b5627c3c73c2097f90"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticA_D.png",
+            "source_hash": "1d4000c1bfe2555cf0a8c52996c16bdbb0e707e5",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticA_D.png",
+            "target_hash": "87ab540ad3178f0f01d22f79b07392ab21a8de3b"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticA_M.png",
+            "source_hash": "702583ae310ff4c36f755924dfecd5ab270485d1",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticA_M.png",
+            "target_hash": "1609cd95f715a8e82d61cd9674a787b8be0269eb"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticA_N.png",
+            "source_hash": "48bb9fc41729ec5c014f9b0d0adbeae756422539",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticA_N.png",
+            "target_hash": "fb682b879e95fe044790d37f488959db97627b25"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticA_ORM.png",
+            "source_hash": "df970d477841a5dc9c7cfd8b855308547eab4f58",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticA_ORM.png",
+            "target_hash": "d2eed66b35adeb21b14022385905004615746581"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticB_D.png",
+            "source_hash": "955fa78dfa4536cb57b174a05856ac57ac7f1548",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticB_D.png",
+            "target_hash": "2c0b4baeb87295d836a44411536a87c8bd86e515"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticB_M.png",
+            "source_hash": "607ffe5ac2a6a9a489db8beee9b89b155be6bcf3",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticB_M.png",
+            "target_hash": "eeb2b4017354ddc2b99b283482aaa0f77e2d3b6a"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticB_N.png",
+            "source_hash": "e68745d63b32b7a8d5f4f9da6afdca01650b87e3",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticB_N.png",
+            "target_hash": "18348eeba2127c9641a4f08b7ac992478c8a77d2"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticB_ORM.png",
+            "source_hash": "055e60888820e3a03b8c08eacd1bf0d5b89c6831",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticB_ORM.png",
+            "target_hash": "7aaa62fff233ee19ebfcfcaf30376d1128e25b84"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticC_D.png",
+            "source_hash": "f453b3ae616598befa3b58bfaac2ebb7cda06307",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticC_D.png",
+            "target_hash": "656ac4b332638a2d6dc78ff9f5873e2de272fdde"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticC_M.png",
+            "source_hash": "7cdec8ba6503bc4a91de26dcea96b3642cbf787d",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticC_M.png",
+            "target_hash": "d23354f1ae6cad1ea03e2e9e9feead6422abc65d"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticC_N.png",
+            "source_hash": "dc5dd8b7b371c6b702bb9b6cd1a4a45799bf969d",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticC_N.png",
+            "target_hash": "5408e0ad8b6c5cf0c6857284b427a7670fddfe38"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticC_ORM.png",
+            "source_hash": "3a1c6c2813fb7c651f112f717e4e058a04a35855",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticC_ORM.png",
+            "target_hash": "2c16a9e01038a70a19a5e6ee64cf66a76cad4a4f"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticD_D.png",
+            "source_hash": "aeed5f26de132a88d1f5473772aa7e73dbc636cd",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticD_D.png",
+            "target_hash": "fa490081e90216835bd8839b776e3ee40d8ec611"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticD_M.png",
+            "source_hash": "df1007fdba9c4c25f66203cbf75088a738abe92a",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticD_M.png",
+            "target_hash": "a8f39b7225a91a9a6d301a8b21114cb6305432bf"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticD_N.png",
+            "source_hash": "b32659279c160333adba0b2d5c3b0612f1ded448",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticD_N.png",
+            "target_hash": "4653dec04680430e128cda0335ad83a2e8d6dbe9"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticD_ORM.png",
+            "source_hash": "9204fc600ce681159641d4f5c98b30377478ea3d",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BarelPlasticD_ORM.png",
+            "target_hash": "2125c033ec06c9be6ff5b00f31c25b1129ecd209"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BeamsA_D.png",
+            "source_hash": "40e73dbb7d0e6e110cc849305c134c71d6d76795",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BeamsA_D.png",
+            "target_hash": "64b511a7b471b3185b20118a56d9b263f358e4e6"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BeamsA_M.png",
+            "source_hash": "745278fd7b4f1e275e7c44dae161e7b879e352e2",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BeamsA_M.png",
+            "target_hash": "dad3c8732f5b1ca2b722250111f76205b3a1ed54"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BeamsA_N.png",
+            "source_hash": "f44c96d5276ed7a52ecbf8d19d77a697172b4d95",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BeamsA_N.png",
+            "target_hash": "dc1b175b2a14ac105ec96b36f76e36b4932772b6"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BeamsA_ORM.png",
+            "source_hash": "0c6ae60cac8cccda4f44a7a2d9404305099e8764",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BeamsA_ORM.png",
+            "target_hash": "ded076627221cd3cd8eff4866e6fd8bf69906837"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BlankMask_M.png",
+            "source_hash": "74b7648d47ff6bb5ebd404d41dc0722c60a665e7",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BlankMask_M.png",
+            "target_hash": "8fd6d291fc6939ad7c1dc4f2d39487d8414467c8"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BottlesPlastic_D.png",
+            "source_hash": "84ca367578cd6c650b5e4280596e0f7ad3773abf",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BottlesPlastic_D.png",
+            "target_hash": "862ce6ee2df09011a1a3c167d4b02ec4d23de674"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BottlesPlastic_N.png",
+            "source_hash": "d20575623e5f24c4f1b6a908c7e83ee8633defd1",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BottlesPlastic_N.png",
+            "target_hash": "fa6bbd91522836748645ffc6a17508bdc97e4c15"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BottlesPlastic_ORM.png",
+            "source_hash": "31900b7b08992a77b9aeb009fd4ab1ffa146b2f4",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BottlesPlastic_ORM.png",
+            "target_hash": "f7d58cea7c8a27043ed58c74db4e2624fe91ebe8"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BucketPlasticB_D.png",
+            "source_hash": "cd5a5e8402479da009e52634129cc023624c3bd9",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BucketPlasticB_D.png",
+            "target_hash": "f71f010314cbcfa783400e47a7314064f02f92b5"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BucketPlasticB_M.png",
+            "source_hash": "8aff1dbecc777fbe665363a8e1a981a02fa2be3d",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BucketPlasticB_M.png",
+            "target_hash": "3cee8463a9a681baa5e6db7b38c9b8622afa03b0"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BucketPlasticB_N.png",
+            "source_hash": "3332ac062cea5a3a6da2e9f7cdd55ae6c895a9ef",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BucketPlasticB_N.png",
+            "target_hash": "29cb98a4ce65b72eac176f495e3b89e2d25cb24a"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BucketPlasticB_ORM.png",
+            "source_hash": "385a43f3aeb0d43f05aba6b12639e03fad2139be",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BucketPlasticB_ORM.png",
+            "target_hash": "ca102808efd02d832c2add00c9e77c5c190fd015"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BucketPlasticD_D.png",
+            "source_hash": "b55438641759173f48b5f56bedaa8ebac5ee2f1d",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BucketPlasticD_D.png",
+            "target_hash": "6141f10311f1c7c6b62ce4d36c6b20747f708131"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BucketPlasticD_M.png",
+            "source_hash": "cff1820c6576ccba610cec428e3874f91e5c0e9b",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BucketPlasticD_M.png",
+            "target_hash": "6cfb004590398a7e44328869caab6ac2d409cb03"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BucketPlasticD_N.png",
+            "source_hash": "224bd30a6204a4d9ae881fd4704d0a49b14744a8",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BucketPlasticD_N.png",
+            "target_hash": "87809e60dfd8913a2a8d649567f3b9db8be5528b"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BucketPlasticD_ORM.png",
+            "source_hash": "8afe269f48bef90c2c4cb631fd2746a7733de183",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_BucketPlasticD_ORM.png",
+            "target_hash": "a84a341b09cfdf2b41466171da2a9992a5e08fdf"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CardBoxA_D.png",
+            "source_hash": "63041ba4818d15b1c0350b73b6772e378ff764e9",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CardBoxA_D.png",
+            "target_hash": "ed2cc59512c954b8df9457b4010c072d5f585bff"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CardBoxA_N.png",
+            "source_hash": "d6af68bb093c86ba4042c2482ef9aad51ae7f7d0",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CardBoxA_N.png",
+            "target_hash": "f9d6737756018521176a71036f6ca8e278bd1fb5"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CardBoxA_ORM.png",
+            "source_hash": "970ced12d89388d3afb6b9a23c7fb444a5527f99",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CardBoxA_ORM.png",
+            "target_hash": "c46ea87fc82ea9a218b6a8ebd5eb031ed3dde9e2"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CardBoxB_D.png",
+            "source_hash": "48fd8aa255c91c014832a1464478d827e4350d65",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CardBoxB_D.png",
+            "target_hash": "9503a8c69b6f2a3f5375d1cd62f2bede74da2624"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CardBoxB_N.png",
+            "source_hash": "7b9b85f3683e354bc8604a15a65571ba02e7fb14",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CardBoxB_N.png",
+            "target_hash": "87ddb36e418d4e60ce92c49949fbc95460a83d13"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CardBoxB_ORM.png",
+            "source_hash": "71f5d89ba190fc7bf73ed64217c50702487a283a",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CardBoxB_ORM.png",
+            "target_hash": "f0337bc0f1954db0cbc9fabebc30deb21b8c4872"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CardBoxC_D.png",
+            "source_hash": "31e95b7194122989a8a02ba6279af4f8d8d0a556",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CardBoxC_D.png",
+            "target_hash": "651a11256ba7181ea068b1398d734418a1818b1b"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CardBoxC_N.png",
+            "source_hash": "8b9e1d86808db2437bdafe8aae1fa6f79fa65ba2",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CardBoxC_N.png",
+            "target_hash": "e8a2970f949c95af6eee873705484267d6a0b0e3"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CardBoxC_ORM.png",
+            "source_hash": "9c07ee04493972a7c97fd51fd9df6594b035fb1e",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CardBoxC_ORM.png",
+            "target_hash": "09d523bdab93d7e614d33ff08596b25d9e9240a6"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CardBoxD_D.png",
+            "source_hash": "1573aca8c987b5597e47118247c2a3e4ec33e200",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CardBoxD_D.png",
+            "target_hash": "bf1c15128f63111f21941756e8b2c9e922e5449b"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CardBoxD_N.png",
+            "source_hash": "2dca8a85a5fc1f5e49fe0999b8c0dc17ff4ed550",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CardBoxD_N.png",
+            "target_hash": "67529ec33cb5e77763a0cfc1391ed7a826e3bc59"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CardBoxD_ORM.png",
+            "source_hash": "e6f2507ab5e7aa247f1bc027da4298d5f0d14fdc",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CardBoxD_ORM.png",
+            "target_hash": "f978d1a4996ec8ac60a2ed8d368462b77f3e0acc"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CeilingA_D.png",
+            "source_hash": "f0165102c6aff1ea04875411b502a710dac571aa",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CeilingA_D.png",
+            "target_hash": "5955b76cc7b47197e3218c297619f56694bad55e"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CeilingA_M.png",
+            "source_hash": "2a1b138c7c7b15d7258af08d41b4a4ebcbcbcd4a",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CeilingA_M.png",
+            "target_hash": "cacadc30efd13dcf18a7161daf97e860fda8b298"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CeilingA_N.png",
+            "source_hash": "3d30ad0844bf9c58b6c48cbcee45a459865ff1a9",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CeilingA_N.png",
+            "target_hash": "c7cb2bb1f8ae946e971c21ef524c156f687f9d3d"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CeilingA_ORM.png",
+            "source_hash": "bc2ab82a03c74c324b7dc2ec5111a3fd23607d31",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CeilingA_ORM.png",
+            "target_hash": "e30cf27667b9f5c4de7c1dfe48ab0aef7fc58950"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_A_D.png",
+            "source_hash": "162568685858663876f60550b796d1cb57f15a40",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_A_D.png",
+            "target_hash": "349f10345c828962d80e344d98c2a74de011da2c"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_A_M.png",
+            "source_hash": "f279fff6b55b4d247f5c83f17435e20e4c21c477",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_A_M.png",
+            "target_hash": "2886cbdb602a2b3fbddea10c333b72830ef047b6"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_A_N.png",
+            "source_hash": "ecd28e8a387c5ced420a2aa51583f1b6aa12ab24",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_A_N.png",
+            "target_hash": "26797cc50c0290ee19349e92d5227425efc91a90"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_A_ORM.png",
+            "source_hash": "685dfffc747cda27dd7e794153c1099edadee12e",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_A_ORM.png",
+            "target_hash": "67f401e304b0bb47d19a0385ceda1d5f2a623ee2"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_B_D.png",
+            "source_hash": "f7d4bd36bb128bf49add20e8f61ceb0e6c8e1f13",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_B_D.png",
+            "target_hash": "373d4b8a5c8f9bc546fe94eacacc0810581914ff"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_B_M.png",
+            "source_hash": "dd445f544a6c6546498daa12fe69359fc7b8fb55",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_B_M.png",
+            "target_hash": "8af35be33560ebfc201cd1d08f1c8ca2f955532d"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_B_N.png",
+            "source_hash": "88ba9505633053802ee5106777d3155dac3dce14",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_B_N.png",
+            "target_hash": "fe274007f8c31247649c43d880f82d33376ef368"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_B_ORM.png",
+            "source_hash": "ecd7efb6f386ef6c0b4d8e7e938096feeeeb5dca",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_B_ORM.png",
+            "target_hash": "dc244fe97c67a67b0bd2f82eaae36dcb460ae6bc"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_C_D.png",
+            "source_hash": "e8746c0a7f5f0d623fd054a700e2f00050ae8d79",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_C_D.png",
+            "target_hash": "d32965298dd4b854c854a24d7ea54bdae63e54ab"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_C_M.png",
+            "source_hash": "3e6553adf79fd262b7ec5622ecedc03cbbfe1c08",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_C_M.png",
+            "target_hash": "5760be7fd7211df11d38338712606a296c79b304"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_C_N.png",
+            "source_hash": "95eeed11df64991cfa6ba069b86cfba145db3d4e",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_C_N.png",
+            "target_hash": "6f934dad4e83117c7e1e3f67a6f5469e97ff9ac8"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_C_ORM.png",
+            "source_hash": "d06a81507cde00a2ca806f7591ecdd02b67a9df6",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_C_ORM.png",
+            "target_hash": "f17ebeb87d56739940deebe938bd05ea4487a555"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_E_D.png",
+            "source_hash": "67b279013fe819cef5081612b63d9ffe6fc35d5c",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_E_D.png",
+            "target_hash": "02f9119d52e1cf86bc9ba682783384b17ec492e2"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_E_M.png",
+            "source_hash": "ff18d5d42344de95579d21064788f928c730de31",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_E_M.png",
+            "target_hash": "fa043217f3f8e075c0dadd94d0e7dbb512f6baa7"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_E_N.png",
+            "source_hash": "7c5ca5334ae7fc3e2e47eed8c492437bdb16d110",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_E_N.png",
+            "target_hash": "1465e142d81e036c5dbb8702b03b11fd9e3599bf"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_E_ORM.png",
+            "source_hash": "1df06b6c2fc1480bc444aa6040a45d2d6295506b",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_CratePlastic_E_ORM.png",
+            "target_hash": "a0fb64f4d8f514fe8b63527aa43b34900765e15a"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_FireExtinguisher_D.png",
+            "source_hash": "356f7f339381df7b5c80674c70041c3e24d82c87",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_FireExtinguisher_D.png",
+            "target_hash": "ec733b5cd587f44ac0d3f034a40b5a6eb7f556a8"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_FireExtinguisher_N.png",
+            "source_hash": "5a9f2c80a6c42b46a5b1c584ee974271940e1498",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_FireExtinguisher_N.png",
+            "target_hash": "4c71109d8fe1e561370310d36ce9d02ec3b7b3aa"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_FireExtinguisher_ORM.png",
+            "source_hash": "d5cf8b4d1d394e5d55c2cc439c26a83feeefd2c4",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_FireExtinguisher_ORM.png",
+            "target_hash": "9682ec008f4777dfb301fe6813254c466394a0df"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_FirstAid_D.png",
+            "source_hash": "c8c6fd7f9046d2072c2d5910fce92299c0b08884",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_FirstAid_D.png",
+            "target_hash": "88faf710e0a7b7e65217c831e017c521c2898e57"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_FirstAid_N.png",
+            "source_hash": "4826668c4a25345bcfe65555632e62e3be3ccb58",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_FirstAid_N.png",
+            "target_hash": "43b3c2d169dac4a4c1ac9a0040181fbceab8be88"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_FirstAid_ORM.png",
+            "source_hash": "ab843f453f58d6884ec05ef8650e93020fd750bc",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_FirstAid_ORM.png",
+            "target_hash": "275f974ceebe13ab68b085d3bde576c33710758d"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_FloorStripes_D.png",
+            "source_hash": "bd62387432d7a893c6b97de04406a64f8e96630b",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_FloorStripes_D.png",
+            "target_hash": "8442c365a829c1a4f840dd2630c00cbad8cdd5a6"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_FloorStripes_M.png",
+            "source_hash": "b91acda3e50de843adbcdeb7639ccb579829002b",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_FloorStripes_M.png",
+            "target_hash": "af467d73b45a67e2056daef1f9535e6eb9afb397"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_FloorStripes_N.png",
+            "source_hash": "497e330fca6db67f56d516085cdc4c997a67ed4a",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_FloorStripes_N.png",
+            "target_hash": "ea76dd8528ed35ab9e5734bf70aad8eaec3296fd"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_FloorStripes_ORM.png",
+            "source_hash": "dc85aa8451b3f6c04dc883ce1f8148ecb83a4ef9",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_FloorStripes_ORM.png",
+            "target_hash": "3fb7a8b188b91f72083dce3e41e48ce461fc2952"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_Floor_01_D.png",
+            "source_hash": "8bc60ca9bfd135693f9650ea2536ffe35686adc6",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_Floor_01_D.png",
+            "target_hash": "a78d6395ba509cc24ce5cca5eb90ab09cb5c817a"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_Floor_01_M.png",
+            "source_hash": "ed5b6b323e69d50d2f55ac18959a35f6eb2a7398",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_Floor_01_M.png",
+            "target_hash": "f4d614b47bd76f0cc2d0be748325041773420431"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_Floor_01_N.png",
+            "source_hash": "f6fb233b16be5b6b253cb6e83f0e5728a2c89153",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_Floor_01_N.png",
+            "target_hash": "857bb258df0af7ab122388862ed00971610dedf5"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_Floor_01_ORM.png",
+            "source_hash": "76c483550ed79041a96283f8e812943d96d5b53a",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_Floor_01_ORM.png",
+            "target_hash": "1ecf8e6346ef17070e7f002a6d8af6e81600a9f5"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_FrameA_D.png",
+            "source_hash": "a84569ef6201e844fee670f6914d3399edafb743",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_FrameA_D.png",
+            "target_hash": "68382b7a341ae67fc52c757c3cb00c4345231d97"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_FrameA_M.png",
+            "source_hash": "df79d0deacd75d6e2b4a8943aa8549ae8587e003",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_FrameA_M.png",
+            "target_hash": "ed8f43745bcee0c2ea4fac75a75f72e1d25b5a48"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_FrameA_N.png",
+            "source_hash": "db324abe81e93ce65f68ea97eadc88b2f1109588",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_FrameA_N.png",
+            "target_hash": "ecfb1cfb4d85a21b7b4bce40a98e1dde19ce5d13"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_FrameA_ORM.png",
+            "source_hash": "875e6e3bff7f035b50a47a8aad03999bd9c40fe5",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_FrameA_ORM.png",
+            "target_hash": "03bf52378c254e3eccd2696fb373d7de51f5e536"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_LampCeilingA_D.png",
+            "source_hash": "71dfaa3d811663e7753fd090ab022fc370ecdcb5",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_LampCeilingA_D.png",
+            "target_hash": "0bf1a49ab188e64798ee0d7f86388eb2d6ae1186"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_LampCeilingA_N.png",
+            "source_hash": "05fe785acffc66b40d477cdc473a72cdd3770cef",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_LampCeilingA_N.png",
+            "target_hash": "8bc76951d6a7b5e23230f61fd4d8c9423446ae4e"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_LampCeilingA_ORM.png",
+            "source_hash": "fc8acb7c23805776d5531b9cd499a9e329f71cf2",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_LampCeilingA_ORM.png",
+            "target_hash": "c979dd08d0950e4fc31d3f448c694b59878f7961"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_PaletteA_01_D.png",
+            "source_hash": "e20bbec3591b18b862b474f135084197fcf816e5",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_PaletteA_01_D.png",
+            "target_hash": "18115e81ae638f6ee992ef230a11cacb4028b20b"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_PaletteA_01_M.png",
+            "source_hash": "6f3a3ea3ea31dad430cf4bf83975818f840375df",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_PaletteA_01_M.png",
+            "target_hash": "45852916c881bf7889817f87ba09304a34b1f706"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_PaletteA_01_N.png",
+            "source_hash": "060572b6318adf972370c04db211925663ae9fd8",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_PaletteA_01_N.png",
+            "target_hash": "3a0561a155a6e1d4bb4949303bbf5aa35f5ee5b1"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_PaletteA_01_ORM.png",
+            "source_hash": "26e5f8adf05a5ee628592350d150b81de96375e0",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_PaletteA_01_ORM.png",
+            "target_hash": "5b23344b43b71eaad61143d27dc7b939ce1c0dcc"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_PlasticWrap_D.png",
+            "source_hash": "eb2dc541afa9cbb4e954ef3900cf78e808deb3df",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_PlasticWrap_D.png",
+            "target_hash": "4423c3c39092617a7a80432eaf15c62dea95b169"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_PlasticWrap_ORM.png",
+            "source_hash": "2e32e918883e7ea5703f0d89cc426f97ab604df9",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_PlasticWrap_ORM.png",
+            "target_hash": "ccecb3788df1c8fb407f8035c0f62683efdbc9ce"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_PushcartA_D.png",
+            "source_hash": "2f60086dfca187767810c9d7b6234c702fed5824",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_PushcartA_D.png",
+            "target_hash": "a071084a304c4ea8e9d48b7fd3c5895653d83c5d"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_PushcartA_M.png",
+            "source_hash": "5802d2d6beeded42267a882be620b0ecd8f5aab6",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_PushcartA_M.png",
+            "target_hash": "43c4b04984f3bfb2fdb0ce794dd41237c60c8a4a"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_PushcartA_N.png",
+            "source_hash": "1e2b264b4abe176b0b7b76d84ae5c5c5ca3a1b78",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_PushcartA_N.png",
+            "target_hash": "af4bb5dafe64379f0b868a2ff63d732f5a0d9d63"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_PushcartA_ORM.png",
+            "source_hash": "2a7a23eaa55479bc5fd4dabf18f3d08f84b7ea65",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_PushcartA_ORM.png",
+            "target_hash": "b43f5b74bd7fbdffe0e6414d251e5746cbfc7d37"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_01_D.png",
+            "source_hash": "e69c40bd1fad5f273de48ad4a41b94796e81b19e",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_01_D.png",
+            "target_hash": "1c9e64a92f558203929a5f95833ae98ba786ade4"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_01_M.png",
+            "source_hash": "996dbe67f242ab6a08696e22740b5af48d1a18a8",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_01_M.png",
+            "target_hash": "0eb0248d7802282e31ed0493d27b15ef6b5d8e48"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_01_N.png",
+            "source_hash": "5e2511c98fd1456db3d5ce01f53aea2500d90284",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_01_N.png",
+            "target_hash": "72393da2db25f88cd849dbf1caabce10d5302b23"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_01_ORM.png",
+            "source_hash": "23f19462bbf12bdc4f428171caf44697f252cc90",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_01_ORM.png",
+            "target_hash": "584f6d625248f2da7bfd28a30e98266d5ba2c2b3"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_02_D.png",
+            "source_hash": "47dfe7f2f77efe050bc90fc16a57d1a86da9b371",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_02_D.png",
+            "target_hash": "496553e61eacdd19a1a55a9dce37dc842baa19ef"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_02_M.png",
+            "source_hash": "1f71c6f4ee283c2d9fcec4ab3b6150c69795131a",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_02_M.png",
+            "target_hash": "1be53cb407dd2d7f8affbc7ac1d25fe9d7dc3ba7"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_02_N.png",
+            "source_hash": "2d6b4fea98a6a0c88ac4742391478f9849b459fd",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_02_N.png",
+            "target_hash": "f6731b2ae4572821684cffbba347fcc2b1fa0e16"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_02_ORM.png",
+            "source_hash": "67676d5c96ca73061c16d8978b59140c82c4eb3c",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_02_ORM.png",
+            "target_hash": "d3341fb5ed3e157f55031e7b4d522a802e91dbce"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_03_D.png",
+            "source_hash": "189d7e2a15d0674faafac6ae2c3b8aa4b3a4f089",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_03_D.png",
+            "target_hash": "befcef49879a7288f67de3a2193a48acd8008497"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_03_M.png",
+            "source_hash": "c8a4dca5ef6cf8f1dbb8f8927072c99293b28c49",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_03_M.png",
+            "target_hash": "1a74250675ac4f31152a2995812dc7b19bae3e37"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_03_N.png",
+            "source_hash": "990c8b1a3b4ca7872df8d4a69c92da74fed24b39",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_03_N.png",
+            "target_hash": "eb2ec410d16134c53af0f8c3d88cfd13fbefb24d"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_03_ORM.png",
+            "source_hash": "40c3ed7f59c87ac4468db28bc4de8314c0330f7f",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_03_ORM.png",
+            "target_hash": "9de22eb13a1a6e744538866964cd690d33ac8109"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_04_D.png",
+            "source_hash": "60e61ee72e246b64f854ddb0834ce12bcb3d0091",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_04_D.png",
+            "target_hash": "9847c7fcc719518001837589a1350d53c178e759"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_04_M.png",
+            "source_hash": "66277e9bab07521065060b7a69cb4838963292ad",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_04_M.png",
+            "target_hash": "cc62fa32a1c0ff63c35d82196ca9c4adc7a4fff1"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_04_N.png",
+            "source_hash": "f6524216bc888ed608857727e24f35a0bfeafe29",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_04_N.png",
+            "target_hash": "4b1ccf6baea95c4e04e199efdccc10cdc2b989a7"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_04_ORM.png",
+            "source_hash": "cba0ecfbc88d44c3114f6a828cf00fbd3b79b69b",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackSetA_04_ORM.png",
+            "target_hash": "2f45a966e0d8688b809e0987e7ba45a13fd465c4"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackShield_D.png",
+            "source_hash": "0e74b811a2189da59a8c83fce85f5e6bdc52f53b",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackShield_D.png",
+            "target_hash": "6a68c465be6e25622fc6c2a6942e7a4276668cac"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackShield_N.png",
+            "source_hash": "dba2c6cd8663090fd574e52c3560b5451584b11f",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackShield_N.png",
+            "target_hash": "0cb2e3bdda1f537d49cede771340eddb3981a63a"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackShield_ORM.png",
+            "source_hash": "03ce1b2b70611d8be98d57fe70f68de3ae153344",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_RackShield_ORM.png",
+            "target_hash": "d08df3468d8095c9c32e0dadf05ed4f6ba638239"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_SignsA_D.png",
+            "source_hash": "1956c00c7b128e4ebd1325b25a7ab12fce0238ad",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_SignsA_D.png",
+            "target_hash": "cfe6a96354b60d2ed0b813f4bc892a8c73da34e5"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_SignsB_D.png",
+            "source_hash": "571d0b5779b45a03804a26495e739eb7d5483175",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_SignsB_D.png",
+            "target_hash": "6d7026f9d6a110b7be2cf7c347af30459de0d4d1"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_SignsC_D.png",
+            "source_hash": "65c0f808ac0204f2b0b7356913927cb4d65f8ee1",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_SignsC_D.png",
+            "target_hash": "99bd1826807d494c08ba7deca42af1a4eb1006f5"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_SignsC_ORM.png",
+            "source_hash": "27f9582ce0ff2f97ef0da80bd87f91084c46308a",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_SignsC_ORM.png",
+            "target_hash": "d4918dffd2bd0c466d24366feb864d8d302a4ada"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WallA_01_D.png",
+            "source_hash": "3077a16ccdb164511ffb68f037796ec49237d061",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WallA_01_D.png",
+            "target_hash": "b843ad41f9bfe9e915fbc1699cc5d6249e0855e4"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WallA_01_M.png",
+            "source_hash": "3927f561e583ee514f2f0b7b33137c224d29bdf5",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WallA_01_M.png",
+            "target_hash": "75e70273dd670065bf88299c06cb4aad45c4d03f"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WallA_01_N.png",
+            "source_hash": "62e3d8421bbdb6301773556d2c0783afffb856e6",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WallA_01_N.png",
+            "target_hash": "f97a42b4495c2ebafe44a23ba2c7d33cb078f638"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WallA_01_ORM.png",
+            "source_hash": "d2a4ef530ee658faa8ee0dc9af5e756edcfa21c1",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WallA_01_ORM.png",
+            "target_hash": "405a2b88a1ab70d22ec64db7cd7aee212c07e83d"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WallA_02_D.png",
+            "source_hash": "cbd5167154e426410c7c7c7b275e001265f53b86",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WallA_02_D.png",
+            "target_hash": "86db2787014f184f00f69a4b6abe6376fb697f1f"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WallA_02_N.png",
+            "source_hash": "85cb3d9ec7a9ba4e6dfe614b77863207564e7025",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WallA_02_N.png",
+            "target_hash": "c875bd1f2230593270f7b419f50f190e7e55758c"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WallA_02_ORM.png",
+            "source_hash": "92c76b0f0d43dd820943a0ae334a887cad68753e",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WallA_02_ORM.png",
+            "target_hash": "4dea8281a6b31020f3f85b9c56272ef98c2d70e7"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WallBoard_01_D.png",
+            "source_hash": "915635559f953c2d4dc76ff2f0487389f4145d62",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WallBoard_01_D.png",
+            "target_hash": "e39111a196e35b6930b5473dfd0a3d8fcf22874d"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WallBoard_01_M.png",
+            "source_hash": "5e4ef274d2f25b8756d573aa57d3732bb69e4bec",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WallBoard_01_M.png",
+            "target_hash": "d44d78323708c37c36fc64f4643ce5da1fbe3c05"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WallBoard_01_N.png",
+            "source_hash": "c12201760f7e8931207869cae1c39b5b8de4ead8",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WallBoard_01_N.png",
+            "target_hash": "0b71a13b9565389823484d0171e7f208472e9bc2"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WallBoard_01_ORM.png",
+            "source_hash": "b4917775d94184872fca5e97686bf93cded13a51",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WallBoard_01_ORM.png",
+            "target_hash": "f826ba53c369db44b712c6cd579b483bc8bc47e1"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WallDetails_D.png",
+            "source_hash": "0e8110cb6b226a8512cdd00754a3aea126e27658",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WallDetails_D.png",
+            "target_hash": "312058045ce2834e0a346326a9fd873089f66b85"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WallDetails_N.png",
+            "source_hash": "075ec3ee90abcd58d64316702ce6c57acec40754",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WallDetails_N.png",
+            "target_hash": "ddc12f7f91f230dc2904a1dbf1a2c8615608723d"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WallDetails_ORM.png",
+            "source_hash": "07be15158a14134257af5c9326099e892e3cc81f",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WallDetails_ORM.png",
+            "target_hash": "6d1f45fc4e09d57591146ac392b056a7ee81c9e7"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Props/Forklift/Materials/Textures/T_Forklift_D.png",
+            "source_hash": "f1bd937303d978a0fda2db33175f9305d08a81ef",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Props/Forklift/Materials/Textures/T_Forklift_D.png",
+            "target_hash": "a5fde8d87788b2d823cba769912ec1b6e7a3f8db"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Props/Forklift/Materials/Textures/T_Forklift_N.png",
+            "source_hash": "731cbbae1a5af5d97df48d9075a6f2e3c3ac5b3f",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Props/Forklift/Materials/Textures/T_Forklift_N.png",
+            "target_hash": "4b27359b890f4f81b7b431dcca9b43ccea8c0149"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Props/Forklift/Materials/Textures/T_Forklift_ORM.png",
+            "source_hash": "0d405d1c001ae8cbd5aa667eed4fdea68c3a972e",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Props/Forklift/Materials/Textures/T_Forklift_ORM.png",
+            "target_hash": "a3901b4af5a0001fd04334885e29c21ea02bcf75"
+        },
+        {
+            "source_url": "omniverse://isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_albedo.1001.png",
+            "source_hash": "sha-256-flat;1048576;0ef2a212b81d9854edf60a41b75ada9f7e577213b68c979b09003acc94cc8538",
+            "target_url": "./isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_albedo.1001.png",
+            "target_hash": "f297a36ca2ebfd936825e96fa8bcdeeea8bc2121"
+        },
+        {
+            "source_url": "omniverse://isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_emissive.1001.png",
+            "source_hash": "sha-256-flat;1048576;d3631d347fc672fdb0aeae65c609fac820eca79382782458d78d9784a31a147f",
+            "target_url": "./isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_emissive.1001.png",
+            "target_hash": "d413ddbd3160c1f44519f20ffa02a97b06feadd2"
+        },
+        {
+            "source_url": "omniverse://isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_normal.1001.png",
+            "source_hash": "sha-256-flat;1048576;aff5bc02c4651249b6b3e5ed97026e04bb28463656001e7cde0f7fdb08791ca1",
+            "target_url": "./isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_normal.1001.png",
+            "target_hash": "e268ee113f92ebad4cef29a2a0efcd177aadce5b"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/MI_Barcode_0001.mdl",
+            "source_hash": "fbde27adcab6d2fce2849ab127ccd72d501bfdf2",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/MI_Barcode_0001.mdl",
+            "target_hash": "ac2e30f3d24de80cf36636b3ed1c982a5c2a06b5"
+        },
+        {
+            "source_url": "omniverse://isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_orm.1001.png",
+            "source_hash": "sha-256-flat;1048576;d7ebb547e14847c40f6c89cca016f2757bc4c89270c0ec2fb55c726fe55dd356",
+            "target_url": "./isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_orm.1001.png",
+            "target_hash": "8bd62357420a30bd62d238cd71caa135a5d9fcea"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/MI_CeilingA_06b.mdl",
+            "source_hash": "6aeb1c8d213be19c8b6680fb0c50e27037e0a64d",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/MI_CeilingA_06b.mdl",
+            "target_hash": "00b0844ec983675bdbc70996567b16371984ba84"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/MI_CratePlasticE_01.mdl",
+            "source_hash": "67290d638502bcafba59037fd5b3eb17de597e14",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/MI_CratePlasticE_01.mdl",
+            "target_hash": "702b496fcc33fc89a980ea3bff2119fb1b7d70cc"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/MI_Floor_01.mdl",
+            "source_hash": "1662ce0e7a5c366e55ab193a160905a2d6185726",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/MI_Floor_01.mdl",
+            "target_hash": "1de119be638057eccf7bbba9f90761566b8f50a6"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/MI_FrameA_01.mdl",
+            "source_hash": "946c39db49cda179f8bcdb3efbe4a06cdb3673ef",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/MI_FrameA_01.mdl",
+            "target_hash": "e0618a26d04b82ab38fc212c2d30e0e72e12e28b"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/MI_LampCeilingA.mdl",
+            "source_hash": "7d38b1f5f4987c2284fd3fc84fb1a13469d9d02b",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/MI_LampCeilingA.mdl",
+            "target_hash": "ac7a9cdbf062357cf92ab1fc1ba7689ef1656645"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/MI_PaperNotes_01.mdl",
+            "source_hash": "9ab753b0edc4f88b759c848941e16b706245d89e",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/MI_PaperNotes_01.mdl",
+            "target_hash": "4c62d5cf1dd9edb956d2a221e5f1a923493ed454"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/MI_PushcartA_01.mdl",
+            "source_hash": "a7cd38ea64be07332d86980761c5f762988fb868",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/MI_PushcartA_01.mdl",
+            "target_hash": "8c8ec79fd157bcfd1d83aded569a5fc119cc1751"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/MI_RackShield_01.mdl",
+            "source_hash": "d9b2ab0c078ec520666cd0356e244b0117c3c832",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/MI_RackShield_01.mdl",
+            "target_hash": "b8cdf7b2680521f4ff7a59e1dd0d7381b76df793"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/MI_SignB.mdl",
+            "source_hash": "30e386039e30c5d6790497eb639f3559c6ffa303",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/MI_SignB.mdl",
+            "target_hash": "60050acbd8894f342acf333665daccefb59828ec"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/MI_WallB_01.mdl",
+            "source_hash": "1662ce0e7a5c366e55ab193a160905a2d6185726",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/MI_WallB_01.mdl",
+            "target_hash": "b52e8adecf896c36cf44d48df822b30e521b8eee"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/M_AisleSign.mdl",
+            "source_hash": "d2903fd1318f7bdbd8fca11ad5597ebe7994678e",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/M_AisleSign.mdl",
+            "target_hash": "98b5e18d48b2dbf9d05abff2525747a1e8b45bda"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/M_Glow.mdl",
+            "source_hash": "c1a176bf7961ddcf4177acf069cdd47880d03412",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/M_Glow.mdl",
+            "target_hash": "bcc366a2fd53d59485c42350a22299789d2718ca"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/M_TrafficCone.mdl",
+            "source_hash": "14d389ae920bf5958be9a121a915fad2e65d0a17",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/M_TrafficCone.mdl",
+            "target_hash": "88ec38946fb6ebc42424aeb6faf2d65ac2c60ef8"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/M_WallBoard_01.mdl",
+            "source_hash": "37ec9a1502cc6cac65827f43655d3730d2ceaca8",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/M_WallBoard_01.mdl",
+            "target_hash": "9c3e3f3a12736ccb46e9768ebb2fc3f5bd88bf75"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/M_WetFloorSign.mdl",
+            "source_hash": "1c09324e98b84bc84c6d69876425c0dcea9f914a",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/M_WetFloorSign.mdl",
+            "target_hash": "e2e8cf9e32a5e98ea58408f2cdcb7acb5a626078"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/MaterialInstanceDynamic_1220.mdl",
+            "source_hash": "ecdcaa6e00bb2c1fe665855a58009de70f21b1a5",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/MaterialInstanceDynamic_1220.mdl",
+            "target_hash": "15fe45247478b719eb83f76eee2a06d87ad29c13"
+        },
+        {
+            "source_url": "omniverse://isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_albedo.1002.png",
+            "source_hash": "sha-256-flat;1048576;5e38115b117ae27d1e8aaf84a26a312a6594bf0282f19a8303e1a7c78bcd3c58",
+            "target_url": "./isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_albedo.1002.png",
+            "target_hash": "f74b5ce89a070c9a71b9dbe20994cc43449cb024"
+        },
+        {
+            "source_url": "omniverse://isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_emissive.1002.png",
+            "source_hash": "sha-256-flat;1048576;a51ac77857589c9801c653340af079a1b569245d8e98c8c11550daf78c5af73d",
+            "target_url": "./isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_emissive.1002.png",
+            "target_hash": "74c571eb91a68426f026102adebc95b287cf8b50"
+        },
+        {
+            "source_url": "omniverse://isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_normal.1002.png",
+            "source_hash": "sha-256-flat;1048576;82bf240991e4ba15e7baf7d992cfd654759c344b53aa7739a9c137de73950887",
+            "target_url": "./isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_normal.1002.png",
+            "target_hash": "b3506772b68faf1a3041f4d8eb327009c0ab01c2"
+        },
+        {
+            "source_url": "omniverse://isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_orm.1002.png",
+            "source_hash": "sha-256-flat;1048576;c193aad4e47ea99ed73855ef00b6727a4c8ad7e476c753db4d0a3981295d9506",
+            "target_url": "./isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_orm.1002.png",
+            "target_hash": "207d7041e91c2c3a2af6a782d3c802c7b45b2c7a"
+        },
+        {
+            "source_url": "omniverse://isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_albedo.1003.png",
+            "source_hash": "sha-256-flat;1048576;8df46709780d7808bc0572acefa7fb2c592300202daee80a8ded6859e388638c",
+            "target_url": "./isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_albedo.1003.png",
+            "target_hash": "b75c3817a9f96e3eafba2e5ae3eed73b507b5155"
+        },
+        {
+            "source_url": "omniverse://isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_emissive.1003.png",
+            "source_hash": "sha-256-flat;1048576;a51ac77857589c9801c653340af079a1b569245d8e98c8c11550daf78c5af73d",
+            "target_url": "./isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_emissive.1003.png",
+            "target_hash": "30df1c4d14204381489ada7e80d0b2fe5406fca2"
+        },
+        {
+            "source_url": "omniverse://isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_normal.1003.png",
+            "source_hash": "sha-256-flat;1048576;1214c334d9e47896a68d612c29afaf66d5d3dfeff030a0c75563b766fd78d83c",
+            "target_url": "./isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_normal.1003.png",
+            "target_hash": "1950f75e70858978b13a1a3100ec955190218392"
+        },
+        {
+            "source_url": "omniverse://isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_orm.1003.png",
+            "source_hash": "sha-256-flat;1048576;f9c45dac2e417bb96abfe26419c62b5606bd694c0309b86f676c8532d6faf5b3",
+            "target_url": "./isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_orm.1003.png",
+            "target_hash": "45fa0cec446ca9b344f581b65df1d914140db273"
+        },
+        {
+            "source_url": "omniverse://isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_albedo.1004.png",
+            "source_hash": "sha-256-flat;1048576;8aec9a0ba53c4438f94917aced7b20359ed309f79a8e32b25c61852e20a43a51",
+            "target_url": "./isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_albedo.1004.png",
+            "target_hash": "f49546165183ae6d40a61070543a241d342349d9"
+        },
+        {
+            "source_url": "omniverse://isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_emissive.1004.png",
+            "source_hash": "sha-256-flat;1048576;a51ac77857589c9801c653340af079a1b569245d8e98c8c11550daf78c5af73d",
+            "target_url": "./isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_emissive.1004.png",
+            "target_hash": "9b437abcc52ea44779adfb35334f337f689ca501"
+        },
+        {
+            "source_url": "omniverse://isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_normal.1004.png",
+            "source_hash": "sha-256-flat;1048576;58b24658b67749734f469c6fdfeb37bf3a819a1eb69190e356e7c4c89f2d857b",
+            "target_url": "./isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_normal.1004.png",
+            "target_hash": "6fd97a3f16fac6fb7b4aced9b4db9703732c8fe4"
+        },
+        {
+            "source_url": "omniverse://isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_orm.1004.png",
+            "source_hash": "sha-256-flat;1048576;195daae3d88d2d7ef802886b47d4c4bf3881fc208ce26becc751e494256ccd4b",
+            "target_url": "./isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_orm.1004.png",
+            "target_hash": "dc7246f6307a7af9653bcc233d7ef2c0b08c5eb8"
+        },
+        {
+            "source_url": "omniverse://isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_albedo.%3CUDIM%3E.png",
+            "source_hash": "a035a19bd599435553c9b79a0c45c74a58ea0840",
+            "target_url": "./isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_albedo.<UDIM>.png",
+            "target_hash": "411a0156d137d970a9eac4ec75485f8150cae12d"
+        },
+        {
+            "source_url": "omniverse://isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_emissive.%3CUDIM%3E.png",
+            "source_hash": "a035a19bd599435553c9b79a0c45c74a58ea0840",
+            "target_url": "./isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_emissive.<UDIM>.png",
+            "target_hash": "411a0156d137d970a9eac4ec75485f8150cae12d"
+        },
+        {
+            "source_url": "omniverse://isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_normal.%3CUDIM%3E.png",
+            "source_hash": "a035a19bd599435553c9b79a0c45c74a58ea0840",
+            "target_url": "./isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_normal.<UDIM>.png",
+            "target_hash": "411a0156d137d970a9eac4ec75485f8150cae12d"
+        },
+        {
+            "source_url": "omniverse://isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_orm.%3CUDIM%3E.png",
+            "source_hash": "a035a19bd599435553c9b79a0c45c74a58ea0840",
+            "target_url": "./isaac-dev.ov.nvidia.com/Isaac/Robots/Idealworks/HighResProps/Textures/STL_Robot_orm.<UDIM>.png",
+            "target_hash": "411a0156d137d970a9eac4ec75485f8150cae12d"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/OmniUe4Function.mdl",
+            "source_hash": "3a2422f2bb91abb172f36b37c822cde955bb8da7",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/OmniUe4Function.mdl",
+            "target_hash": "943ed8588b23ea0b35b0428c497cf3f8f1c70c16"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/OmniUe4Base.mdl",
+            "source_hash": "089122dd429f0caaa9e36b0e9651df91a87fb963",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/OmniUe4Base.mdl",
+            "target_hash": "399a32d5814f2ebaa45285c2951f3b4b49a5ca43"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_PaperNotes_D.png",
+            "source_hash": "3c285f82a8d0daef2972bcec8f74874d8f0511e4",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_PaperNotes_D.png",
+            "target_hash": "5cc9e84b8fabd604352500b7b72746de020f27d3"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_PaperNotes_M.png",
+            "source_hash": "7710861a00ee8ec64e3e50112ac08b5ae18aa744",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_PaperNotes_M.png",
+            "target_hash": "66450e472a2fb4bc5ac5c2a97eb81510694a78be"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WetFloorSign_N.png",
+            "source_hash": "eaf50f96de14b7ac10e426618446d3805fb2f789",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WetFloorSign_N.png",
+            "target_hash": "93abd2f4488a6cb88be0408b98825993c400da0d"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WetFloorSign_D.png",
+            "source_hash": "efe49b8b773df9641f7d8ab4aca11f58c1cc24f2",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WetFloorSign_D.png",
+            "target_hash": "7a2faf0ee94de096921482d75960b0db9dfd809a"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WetFloorSign_ORM.png",
+            "source_hash": "b0a8690d64e16e22ac0882028d334b0ea782a46b",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_WetFloorSign_ORM.png",
+            "target_hash": "c03ccb14cebd1262bc83de841b07798bb04334e4"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_AisleSign_N.png",
+            "source_hash": "491d3e133e05378027e0984f3134c32eb6cc25ad",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_AisleSign_N.png",
+            "target_hash": "63e623742ba5836682c8c96442227c881511945b"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_AisleSign_D.png",
+            "source_hash": "e2f3f96c9d9fcdc9ff63fb1af5d8d751bc83cf4d",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_AisleSign_D.png",
+            "target_hash": "9e486c979c9abbbad6af3fd646334535feddad04"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_AisleSign_ORM.png",
+            "source_hash": "c9410d6c23cb1ff143690099915a9e90e56effa3",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_AisleSign_ORM.png",
+            "target_hash": "48688c19c37b86ca56b0ff216b835493665c0ad4"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_TrafficCone_N.png",
+            "source_hash": "3f344530c0f918a3eb35e8fcca61f576345906bb",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_TrafficCone_N.png",
+            "target_hash": "787445a440e7f453c4d123c186f9a2a1ea3eb278"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_TrafficCone_D.png",
+            "source_hash": "f6d7125f8408cbdf6a1868c010ae502082927c4b",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_TrafficCone_D.png",
+            "target_hash": "75a8274a26895369c35299dba2108a3ff670f214"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_TrafficCone_Stripes.png",
+            "source_hash": "0fea6519425cbf92a2a26ddc80324c7d2edd79d1",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_TrafficCone_Stripes.png",
+            "target_hash": "ef048f11996aca7c12c17b1283939ce4395d9dab"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_TrafficCone_ORM.png",
+            "source_hash": "fcd3367141ce575351c4d2497cfd26c79c42e673",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_TrafficCone_ORM.png",
+            "target_hash": "0f9690ca7a393c4d1bc3e250394057abaf745ce5"
+        },
+        {
+            "source_url": "omniverse://localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_PlasticWrap_N.png",
+            "source_hash": "2274301fb6c4bbc955edc784539f250f810b7051",
+            "target_url": "./localhost/NVIDIA/Assets/Isaac/4.0/Isaac/Environments/Simple_Warehouse/Materials/Textures/T_PlasticWrap_N.png",
+            "target_hash": "a4d1fb20d1397ae41c5ff047a0be167257f06efb"
+        }
+    ]
+}
